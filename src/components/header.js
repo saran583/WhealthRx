@@ -58,7 +58,7 @@ function Header(){
 								</div>
 							</li>
 							<li class="nav-item dropdown dropdown-slide">
-								<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="">Diagnostics<span><i class="fa fa-angle-down"></i></span>
+								<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="/diagnostics">Diagnostics<span><i class="fa fa-angle-down"></i></span>
 								</a>
 
 								{/* <!-- Dropdown list --> */}
@@ -70,7 +70,7 @@ function Header(){
 								</div>
 							</li>
 							<li class="nav-item dropdown dropdown-slide">
-								<a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								<a class="nav-link dropdown-toggle" href="/consulting" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 									Consulting <span><i class="fa fa-angle-down"></i></span>
 								</a>
 								{/* <!-- Dropdown list --> */}
@@ -82,7 +82,7 @@ function Header(){
 								</div>
 							</li>
 							<li class="nav-item dropdown dropdown-slide">
-								<a class="nav-link dropdown-toggle" href="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								<a class="nav-link dropdown-toggle" href="/pharmacy" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 									Pharmacy <span><i class="fa fa-angle-down"></i></span>
 								</a>
 								{/* <!-- Dropdown list -- */}
@@ -92,7 +92,7 @@ function Header(){
 								</div>
 							</li>
                             <li class="nav-item dropdown dropdown-slide">
-								<a class="nav-link dropdown-toggle" href="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								<a class="nav-link dropdown-toggle" href="/fitness" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 									Fitness <span><i class="fa fa-angle-down"></i></span>
 								</a>
 								{/* <!-- Dropdown list -- */}
@@ -103,7 +103,7 @@ function Header(){
 									<a class="dropdown-item" href="/login">Hire a Fitness Coach</a>
 								</div>
 							</li><li class="nav-item dropdown dropdown-slide">
-								<a class="nav-link dropdown-toggle" href="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								<a class="nav-link dropdown-toggle" href="/healthtalks" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 									Health Talks <span><i class="fa fa-angle-down"></i></span>
 								</a>
 								{/* <!-- Dropdown list -- */}
@@ -112,7 +112,7 @@ function Header(){
 									<a class="dropdown-item" href="/login">Downloads</a>
 								</div>
 							</li><li class="nav-item dropdown dropdown-slide">
-								<a class="nav-link dropdown-toggle" href="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								<a class="nav-link dropdown-toggle" href="/services" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 									Services <span><i class="fa fa-angle-down"></i></span>
 								</a>
 								{/* <!-- Dropdown list -- */}
@@ -122,13 +122,13 @@ function Header(){
 									<a class="dropdown-item" href="/login">Home Care</a>
 								</div>
 							</li><li class="nav-item dropdown dropdown-slide">
-								<a class="nav-link dropdown-toggle" href="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								<a class="nav-link dropdown-toggle" href="/reports" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 									Reports <span><i class="fa fa-angle-down"></i></span>
 								</a>
 								{/* <!-- Dropdown list -- */}
 								
 							</li><li class="nav-item dropdown dropdown-slide">
-								<a class="nav-link dropdown-toggle" href="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								<a class="nav-link dropdown-toggle" href="/healthbot" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 									Health Bot <span><i class="fa fa-angle-down"></i></span>
 								</a>
 								{/* <!-- Dropdown list -- */}
