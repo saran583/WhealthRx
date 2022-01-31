@@ -7,6 +7,14 @@ import Login from './components/Login';
 import Register from"./components/Register";
 import {BrowserRouter, Routes, Route} from "react-router-dom";
 import Header from './components/header';
+import Diagnostics from './components/Diagnostics/Diagnostics';
+import Consulting from './components/Consulting/Consulting';
+import Pharmacy from './components/Pharmacy/Pharmacy';
+import Fitness from './components/Fitness/Fitness';
+import HealthTalks from './components/HealthTalks/HealthTalks';
+import Services from './components/Services/Services';
+import Reports from './components/Reports/Reports';
+import HealthBot from './components/HealthBot/HealthBot';
 
 
 function App() {
@@ -22,7 +30,16 @@ function App() {
 				<Route path="/login" element={<Login/>}></Route>
 				<Route path="/register" element={<Register/>}></Route>
 				<Route path="/" element={<Register/>}></Route>
-			
+				<Route path="/diagnostics" element={<Diagnostics/>}></Route>
+				<Route path="/consulting" element={<Consulting/>}></Route>	
+				<Route path="/pharmacy" element={<Pharmacy/>}></Route>	
+				<Route path="/fitness" element={<Fitness/>}></Route>	
+				<Route path="healthtalks" element={<HealthTalks/>}></Route>	
+				<Route path="/services" element={<Services/>}></Route>	
+				<Route path="/reports" element={<Reports/>}></Route>	
+				<Route path="/healthbot" element={<HealthBot/>}></Route>	
+				
+
 			</Routes>
 		
 		</BrowserRouter>
